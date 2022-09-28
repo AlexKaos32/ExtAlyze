@@ -3,4 +3,4 @@ Bash script utilizing nmap and gowitness to enumerate targets. Must be run using
 
 Usage: sudo ./ExtAlyze.sh -i `/path/to/ip/file` -o `/name/for/output/file` -z `/zip/for/gowitness`
 
-This script assumes that the gowitness binary is at `/home/parallels/go/bin/gowitness` so if it's somewhere else, update the gowitness lines.
+This script assumes that the gowitness binary is at `/home/parallels/go/bin/gowitness` so if it's somewhere else, update the gowitness path.
