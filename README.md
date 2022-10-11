@@ -1,5 +1,5 @@
 # ExtAlyze
-Bash script utilizing nmap and gowitness to enumerate targets. Must be run using sudo or as root.
+Zsh script utilizing nmap and gowitness to enumerate targets. Must be run using sudo or as root.
 
 Usage: sudo ./ExtAlyze.sh -i `/path/to/ip/file` -o `/name/for/output/file` -z `/zip/for/gowitness`
 
